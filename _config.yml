@@ -9,7 +9,7 @@ description: >
 # Your information
 email: your_email@example.com
 author: your_name
-avatar: "/image/Star_dressed_for_Stump_Day.jpg"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135
+avatar: "image/Star_dressed_for_Stump_Day.jpg"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
